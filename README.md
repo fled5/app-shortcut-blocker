@@ -1,7 +1,7 @@
 # app-shortcut-blocker
 
 This tool lets you block any programs or shortcuts by either renaming or moving them.  
-The gui is tkinter which is built in with the exe, this tool even runs in a program which doesn't have python.
+The .exe has a built-in Tkinter GUI, so it can run without requiring Python to be installed unless you are using the other way to run this tool. 
 
 The tool is really easy to use,
 
@@ -30,3 +30,7 @@ Once navigated to the folder in the command
 Run:
 ```bash
 python source_code_appblocker.py
+```
+Screenshot:
+<img width="321" height="252" alt="{D03A5FC3-ADD2-43AE-A7FA-ABBB3F71247D}" src="https://github.com/user-attachments/assets/b0146027-94dd-4d22-844c-c1327b30131b" />
+
