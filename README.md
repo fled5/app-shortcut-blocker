@@ -5,9 +5,12 @@ The gui is tkinter which is built in with the exe, this tool even runs in a prog
 
 The tool is really easy to use,
 
-- No admin rights needed.
-- Minimalistic setup.
-- Fast Process.
+-  Block `.exe`, `.url`, `.lnk` files
+-  No admin rights needed
+-  Minimalistic and fast
+-  No installation required
+-  Designed for **desktop environments**
+-  Optional auto-start on boot (works for `.exe` version only)
 
 Read more about the usage of the tools by pressing "What does it do" button.
 
@@ -15,9 +18,11 @@ This tool was only tested in the desktop environment.
 Auto-Start on boot only works for .exe file.  
 Download either: the code and run it or download the .exe file or download the source code and run it in the command, or any other platform.
 
-## Usage:
+## How 2 download:
 
 Download the .exe and double click to run it.
+
+**OR**
 
 Download python latest version 3.11 or 3.10 from the official site if you have not done it.
 
