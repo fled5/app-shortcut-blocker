@@ -31,6 +31,5 @@ Run:
 ```bash
 python source_code_appblocker.py
 ```
-Screenshot:
 <img width="321" height="252" alt="{D03A5FC3-ADD2-43AE-A7FA-ABBB3F71247D}" src="https://github.com/user-attachments/assets/b0146027-94dd-4d22-844c-c1327b30131b" />
 
