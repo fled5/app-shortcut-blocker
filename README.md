@@ -1,5 +1,5 @@
 # app-shortcut-blocker
-
+(screenshot of the tools is below)
 This tool lets you block any programs or shortcuts by either renaming or moving them.  
 The .exe has a built-in Tkinter GUI, so it can run without requiring Python to be installed unless you are using the other way to run this tool. 
 
