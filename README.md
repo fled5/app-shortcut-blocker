@@ -5,7 +5,7 @@ The .exe has a built-in Tkinter GUI, so it can run without requiring Python to b
 
 The tool is really easy to use,
 
--  Block `.exe`, `.url`, `.lnk` files
+-  Blocks any files
 -  No admin rights needed
 -  Minimalistic and fast
 -  No installation required
@@ -14,11 +14,10 @@ The tool is really easy to use,
 
 Read more about the usage of the tools by pressing "What does it do" button.
 
-This tool was only tested in the desktop environment.  
-Auto-Start on boot only works for .exe file.  
-Download either: the code and run it or download the .exe file or download the source code and run it in the command, or any other platform.
+This tool was only tested in the windows desktop environment.  
 
 ## How 2 download:
+Download either: the code and run it or download the .exe file or download the source code and run it in the command, or any other platform.
 
 Download the .exe and double click to run it.
 
